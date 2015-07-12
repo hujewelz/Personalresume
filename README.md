@@ -5,7 +5,7 @@
 ![image](https://github.com/huluobobo/Personalresume/raw/master/sources/me.png)<br>
 * 姓名:胡知退      
 * 性别:男      
-* 出生年月:1991.11 <br>
+* 年龄:23 <br>
 * 学历:大学本科     
 * 毕业院校:长江大学      
 * 专业:软件工程 <br>
