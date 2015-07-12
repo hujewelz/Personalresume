@@ -53,3 +53,11 @@
 ![image](https://github.com/huluobobo/Personalresume/raw/master/sources/7.png)
 ![image](https://github.com/huluobobo/Personalresume/raw/master/sources/8.png)
 
+自我评价
+---------
+1.勤奋认真，做事热情积极，有较强的责任心， 自学能力强。<br>
+2.环境适应能力强，能够很快适应新的工作环境。<br>
+3.具备团队合作意识，善于协调团队中的人际关系。<br>
+4.能够虚心接受他人的意见与建议，对符合的予以采纳。<br>
+
+
