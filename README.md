@@ -59,8 +59,6 @@
   在校学生可以根据学号从教务处服务器录入课程信息，在人脸签到模块中使用了face++提供的人脸识别技术，经过测试该应用部分功能实用性强   ，运行稳定。目前还在进一步开发中。我在该项目中独立进行iOS客户端的UI界面设计以及代码的编写。下面是其中两张截图。<br>
 ![image](https://github.com/huluobobo/Personalresume/raw/master/sources/9.png)
 ![image](https://github.com/huluobobo/Personalresume/raw/master/sources/10.png) <br>
-![image](https://github.com/huluobobo/Personalresume/raw/master/sources/7.png)
-![image](https://github.com/huluobobo/Personalresume/raw/master/sources/8.png)
 
 自我评价
 ---------
